@@ -14,7 +14,7 @@ More formally: given a set of text documents, the program determines whether or 
     * Recurcive mode to compare every file with every other file.
     * Compare the specific file with others.
 
-## Key Technologies
+## Technologies
 C++
 
 ## Context
